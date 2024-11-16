@@ -48,5 +48,5 @@ And now you can add the local package in your pubspec.yaml file:
 ```yaml
 dependencies:
   screen_type_builder:
-    path: ../screen_type_builder
+    path: screen_type_builder
 ```
