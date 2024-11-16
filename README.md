@@ -31,6 +31,7 @@ package. Here is an example:
 
 Your project structure should look like this:
 
+```
 your_project/
 ├── lib/
 │   ├── src/
@@ -40,6 +41,7 @@ your_project/
 │   
 ├── pubspec.yaml
 ├── README.md
+```
 
 And now you can add the local package in your pubspec.yaml file:
 
